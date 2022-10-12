@@ -2,7 +2,7 @@
 
 The plan is simple:
 
-We choose a course which is completely free, create a course schedule to make progress together and we will discuss the course material every week during our meetup.
+We choose a course which is completely free, create a schedule to make progress together and meet once per week to discuss course content. 
 
 The course we’ve chosen is "Getting started with Python" by University of Michigan:
 
